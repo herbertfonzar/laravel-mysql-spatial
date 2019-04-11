@@ -6,7 +6,7 @@
     "dist": {
         "url": "https://github.com/herbertfonzar/laravel-mysql-spatial/archive/master.zip",
         "type": "zip"
-    }
+    },
     "authors": [
         {
             "name": "Herbert Fonzar",
