@@ -9,6 +9,12 @@
             "email": "herbertfonzar@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/herbertfonzar/laravel-mysql-spatial"
+        }
+    ],
     "require": {
         "php": ">=5.5",
         "ext-pdo": "*",
