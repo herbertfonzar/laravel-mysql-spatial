@@ -1,3 +1,6 @@
+# What`s the different of the version original?
+This project resolve the issue [#38] (https://github.com/grimzy/laravel-mysql-spatial/issues/38)
+
 # Laravel MySQL Spatial extension
 
 [![Code Climate](https://img.shields.io/codeclimate/c/grimzy/laravel-mysql-spatial.svg?style=flat-square&colorB=4BCA2A)](https://codeclimate.com/github/grimzy/laravel-mysql-spatial/test_coverage) [![Packagist](https://img.shields.io/packagist/v/grimzy/laravel-mysql-spatial.svg?style=flat-square)](https://packagist.org/packages/grimzy/laravel-mysql-spatial)
