@@ -3,6 +3,10 @@
     "description": "MySQL spatial data types extension for Laravel.",
     "type": "library",
     "license": "MIT",
+    "dist": {
+        "url": "https://github.com/herbertfonzar/laravel-mysql-spatial/archive/master.zip",
+        "type": "zip"
+    }
     "authors": [
         {
             "name": "Herbert Fonzar",
