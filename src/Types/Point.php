@@ -62,7 +62,7 @@ class Point extends Geometry
 
     public function __toString()
     {
-        return $this->getLng().' '.$this->getLat();
+        return $this->getLat().' '.$this->getLng();
     }
 
     /**
@@ -92,6 +92,6 @@ class Point extends Geometry
      */
     public function jsonSerialize()
     {
-        return new GeoJsonPoint([$this->getLng(), $this->getLat()]);
+        return new GeoJsonPoint([$this->getLat(), $this->getLng()]);
     }
 }
